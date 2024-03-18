@@ -2,12 +2,12 @@
     {
          "Name": "TestProduct1",
          "Description": "test1",
-         "Price": "111"
+         "Stocks": "111"
      },
      {
         "Name": "TestProduct2",
         "Description": "test2",
-        "Price": "222"
+        "Stocks": "222"
      }
  ]
  
